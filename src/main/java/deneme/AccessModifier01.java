@@ -1,6 +1,6 @@
 package deneme;
 
-import turkceTekrarUdemy.A32AccessModifier01Araba;
+import turkishRepetition.A32AccessModifier01Araba;
 
 public class AccessModifier01 extends A32AccessModifier01Araba{
 

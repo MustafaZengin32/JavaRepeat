@@ -2,7 +2,7 @@ package deneme;
 
 //import turkceTekrarUdemy.A32AccessModifier01Araba;
 
-import turkceTekrarUdemy.A32AccessModifier01Araba;
+import turkishRepetition.A32AccessModifier01Araba;
 
 public class AccessModifier {
     public static void main(String[] args) {
